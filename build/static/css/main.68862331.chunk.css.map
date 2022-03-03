@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,gBACI,WAAY,CACZ,QACJ,CAEA,KAEI,gEACJ","file":"main.68862331.chunk.css","sourcesContent":["#root, body, html {\r\n    height: 100%;\r\n    margin: 0;\r\n}\r\n\r\nbody {\r\n    \r\n    background-image: linear-gradient(100deg, rgb(250, 210, 246) 10%, #7eeaee 90%);\r\n}"]}
